@@ -19,7 +19,6 @@ I'm also learning <b>English</b> to better understand documentation and connect 
 <h2 align="center">💟 Tech Stack</h2>
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/-HTML5-ffe6e6?style=for-the-badge&logo=html5&logoColor=white&labelColor=ffb4b4" />
   <img src="https://img.shields.io/badge/-CSS3-e6f5ff?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=b4e4ff" />
   <img src="https://img.shields.io/badge/-JavaScript-fff7d6?style=for-the-badge&logo=javascript&logoColor=white&labelColor=f7e9a0" />
@@ -29,7 +28,6 @@ I'm also learning <b>English</b> to better understand documentation and connect 
   <img src="https://img.shields.io/badge/-GitHub-f5e6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=dfb9ff" />
   <img src="https://img.shields.io/badge/-VSCode-eff6ff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=cde8ff" />
   <img src="https://img.shields.io/badge/-Discord-ffe6ef?style=for-the-badge&logo=discord&logoColor=white&labelColor=f8c8dc" />
-
 </p>
 
 ---
