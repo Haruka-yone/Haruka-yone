@@ -27,7 +27,6 @@ I'm also learning <b>English</b> to better understand documentation and connect 
   <img src="https://img.shields.io/badge/-MySQL-e7f7ff?style=for-the-badge&logo=mysql&logoColor=white&labelColor=a3d8f4" />
   <img src="https://img.shields.io/badge/-GitHub-f5e6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=dfb9ff" />
   <img src="https://img.shields.io/badge/-VSCode-eff6ff?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=cde8ff" />
-  <img src="https://img.shields.io/badge/-Discord-ffe6ef?style=for-the-badge&logo=discord&logoColor=white&labelColor=f8c8dc" />
 </p>
 
 ---
