@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hello, I'm Haru!</h1>
+<h1 align="center">🌸 Hello, I'm Haruka!</h1>
 
 <p align="center">
 Thanks for stopping by my profile — I'm so glad you're here! ✨ <br>
